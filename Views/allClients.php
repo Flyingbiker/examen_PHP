@@ -1,3 +1,4 @@
+<h3>Liste des clients de l'agence</h3>
 <table class="table table-striped">
     <thead>
         <tr>
